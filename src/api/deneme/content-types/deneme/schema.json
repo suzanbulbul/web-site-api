@@ -1,0 +1,18 @@
+{
+  "kind": "singleType",
+  "collectionName": "denemes",
+  "info": {
+    "singularName": "deneme",
+    "pluralName": "denemes",
+    "displayName": "deneme"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "deneme": {
+      "type": "string"
+    }
+  }
+}
