@@ -1,0 +1,25 @@
+{
+  "collectionName": "components_common_img_title_descs",
+  "info": {
+    "displayName": "img-title-desc"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "desc": {
+      "type": "richtext"
+    },
+    "img": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
+    }
+  }
+}
