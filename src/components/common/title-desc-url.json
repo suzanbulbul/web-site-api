@@ -1,0 +1,18 @@
+{
+  "collectionName": "components_common_title_desc_urls",
+  "info": {
+    "displayName": "title-desc-url"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "desc": {
+      "type": "richtext"
+    },
+    "url": {
+      "type": "string"
+    }
+  }
+}

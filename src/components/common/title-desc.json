@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_common_title_descs",
+  "info": {
+    "displayName": "title-desc"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "desc": {
+      "type": "richtext"
+    }
+  }
+}
