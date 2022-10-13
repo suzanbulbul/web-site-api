@@ -1,0 +1,34 @@
+{
+  "kind": "collectionType",
+  "collectionName": "short_eveningdresses",
+  "info": {
+    "singularName": "short-eveningdress",
+    "pluralName": "short-eveningdresses",
+    "displayName": "short-eveningdress"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "desc": {
+      "type": "richtext"
+    },
+    "amount": {
+      "type": "string"
+    },
+    "img": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
+    }
+  }
+}
